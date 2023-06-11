@@ -1,5 +1,5 @@
 <div align="center">
 
-# **Steps to Deploy**
+# **STEPS TO DEPLOY**
 
 </div>
